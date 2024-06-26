@@ -1,0 +1,65 @@
+Se esperaba {, se encontró id
+Se esperaba =, se encontró num
+Factor inválido: +
+Se esperaba ;, se encontró main
+Error Linea 1. Sentencia inválida: )
+Se esperaba =, se encontró num
+Se esperaba ;, se encontró {
+Error Linea 5. Sentencia inválida: real
+Se esperaba =, se encontró ,
+Se esperaba ;, se encontró ,
+Se esperaba =, se encontró ;
+Se esperaba ;, se encontró =
+Error Linea 6. Sentencia inválida: 45
+Error Linea 6. Sentencia inválida: ;
+Se esperaba ;, se encontró 
+Error Linea 12. Sentencia inválida: 3
+Error Linea 12. Sentencia inválida: *
+Error Linea 12. Sentencia inválida: 2
+Error Linea 12. Sentencia inválida: +
+Error Linea 12. Sentencia inválida: 34
+Error Linea 12. Sentencia inválida: -
+Error Linea 12. Sentencia inválida: 1
+Error Linea 12. Sentencia inválida: ;
+Se esperaba ), se encontró 
+Se esperaba ;, se encontró num
+Error Linea 13. Sentencia inválida: )
+Error Linea 13. Sentencia inválida: ;
+Se esperaba ;, se encontró 
+Error Linea 14. Sentencia inválida: 7
+Error Linea 14. Sentencia inválida: -
+Error Linea 14. Sentencia inválida: 9
+Error Linea 14. Sentencia inválida: ;
+Se esperaba ;, se encontró 
+Error Linea 15. Sentencia inválida: 2
+Error Linea 15. Sentencia inválida: +
+Error Linea 15. Sentencia inválida: 15
+Error Linea 15. Sentencia inválida: *
+Error Linea 15. Sentencia inválida: 4
+Error Linea 15. Sentencia inválida: ;
+Error Linea 17. Sentencia inválida: then
+Se esperaba ), se encontró &&
+Error Linea 20. Sentencia inválida: )
+Error Linea 20. Sentencia inválida: then
+Error Linea 24. Sentencia inválida: ;
+Error Linea 26. Sentencia inválida: ;
+Se esperaba =, se encontró +
+Factor inválido: +
+Se esperaba ;, se encontró 
+Error Linea 34. Sentencia inválida: 9
+Error Linea 34. Sentencia inválida: *
+Error Linea 34. Sentencia inválida: 8
+Error Linea 34. Sentencia inválida: 3
+Error Linea 34. Sentencia inválida: ;
+Se esperaba ;, se encontró 
+Error Linea 36. Sentencia inválida: 7
+Error Linea 36. Sentencia inválida: ;
+Error Linea 37. Sentencia inválida: ;
+Se esperaba ), se encontró =
+Se esperaba ;, se encontró =
+Error Linea 46. Sentencia inválida: 5
+Error Linea 46. Sentencia inválida: )
+Error Linea 46. Sentencia inválida: ;
+Error Linea 50. Sentencia inválida: ;
+Se esperaba end, se encontró fin de entrada
+Se esperaba }, se encontró fin de entrada
